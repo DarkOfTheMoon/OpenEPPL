@@ -1,0 +1,6 @@
+GMRES.C
+epplControl.C
+
+epplFoam.C
+
+EXE = $(FOAM_APPBIN)/epplFoam-v1.0

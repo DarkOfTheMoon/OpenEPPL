@@ -1,0 +1,7 @@
+SMART.C
+GMRES.C
+epplControl.C
+
+epplSonicFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/epplSonicFoam-v1.0
